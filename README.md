@@ -1,4 +1,4 @@
-#Web Technology Coursework
+# Web Technology Coursework
 
 I have created an animal veterinary clinic page for a hospital called "Banfield Pet Hospital". This website is mainly for pet enthusiasts and covers many services according to users' needs. This website consists of six pages and one nested page inside the services page. According to hosting purposes, this website was hosted free hosting platform, and the link for this is https://00012387.netlify.app/.
 
